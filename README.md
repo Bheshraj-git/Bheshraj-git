@@ -4,7 +4,6 @@ I'm a Computing student who enjoys building full-stack web applications, configu
 
 ### 🚀 Quick Facts
 - 🎓 **Studying:** BSc (Hons) Computing
-- 💻 **Currently Building:** A physical PC hardware monitor using ESP32 and Python
 - 🛠️ **Core Stack:** Python, Java, Next.js, PostgreSQL (Supabase), Linux (Arch/Ubuntu), Git
 - 🎸 **Offline:** Playing blues guitar, cubing, or producing beats (Sometimes)
 
