@@ -10,4 +10,4 @@ I'm a Computing student who enjoys building full-stack web applications, configu
 
 ### 📫 Let's Connect
 - **LinkedIn:** www.linkedin.com/in/bheshraj-upreti
-- **Portfolio:** bheshrajupreti.me
+- **Portfolio:** [bheshrajupreti.me]
