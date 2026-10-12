@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bheshraj 👋
 
-<!--
-**Bheshraj-git/Bheshraj-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computing student who enjoys building full-stack web applications, configuring Linux environments, and tinkering with hardware. 
 
-Here are some ideas to get you started:
+### 🚀 Quick Facts
+- 🎓 **Studying:** BSc (Hons) Computing
+- 💻 **Currently Building:** A physical PC hardware monitor using ESP32 and Python
+- 🛠️ **Core Stack:** Python, Java, Next.js, PostgreSQL (Supabase), Linux (Arch/Ubuntu), Git
+- 🎸 **Offline:** Playing blues guitar, cubing, or producing beats (Sometimes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- **LinkedIn:** www.linkedin.com/in/bheshraj-upreti
+- **Portfolio:** bheshrajupreti.me
